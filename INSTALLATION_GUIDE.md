@@ -9,12 +9,27 @@ This guide will walk you through the simple process of installing and running th
 - 8GB RAM recommended
 - Internet connection (for API access)
 
-# Shakespeare AI Client
+## Shakespeare AI Client - Quick Installation
 
-## Quick Installation
-1. Clone this repository: `git clone https://github.com/yourusername/shakespeare-ai-client.git`
-2. Change to directory: `cd shakespeare-ai-client`
-3. Run setup: `python3 client_setup.py`
+1. Open terminal on the desktop (or in your preferred folder) and type:
+   ```
+   git --version
+   ```
+   If git is installed, you will see a version listed. If not, Mac will prompt you
+   to install 'Xcode Command Line Tools', which includes git. Click 'Install' (this may
+   take a few minutes.)
+1. Once git is installed, clone this repository: 
+   ```
+   git clone https://github.com/PaulArthurMiller/shakespeare-ai-client.git
+   ```
+2. Change to directory: 
+   ```
+   cd shakespeare-ai-client
+   ```
+3. Run setup: 
+   ```
+   python3 client_setup.py
+   ```
 4. Follow the prompts to complete installation
 
 ## Step-by-Step Installation
