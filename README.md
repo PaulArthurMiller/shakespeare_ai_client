@@ -1,11 +1,11 @@
 # Shakespeare AI
 
-A modular application for translating modern English to Shakespearean style and generating Shakespeare-inspired plays.
+A modular application for generating plays in modern English and translating them into Shakespearean quotes.
 
 ## Features
 
-- **Translator**: Convert modern English text to Shakespearean style using advanced AI
-- **Playwright**: Generate original plays in Shakespearean style
+- **Playwright**: Generate original modern plays in Shakespearean style using Large Language Models
+- **Translator**: Convert modern English text to Shakespearean quotes using advanced AI
 - **Interactive UI**: User-friendly Streamlit interface
 
 ## Installation
@@ -19,8 +19,8 @@ A modular application for translating modern English to Shakespearean style and 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/shakespeare_ai.git
-   cd shakespeare_ai
+   git clone https://github.com/PaulArthurMiller/shakespeare_ai_client.git
+   cd shakespeare_ai_client
    ```
 
 2. Install the required packages:
@@ -37,8 +37,8 @@ A modular application for translating modern English to Shakespearean style and 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/shakespeare_ai.git
-   cd shakespeare_ai
+   git clone https://github.com/PaulArthurMiller/shakespeare_ai_client.git
+   cd shakespeare_ai_client
    ```
 
 2. Install the package in development mode:
@@ -105,12 +105,12 @@ shakespeare_ai/
 
 ## License
 
-[Your license information here]
+Private - N/A
 
 ## Contributing
 
-[Your contribution guidelines here]
+Private - By invitation
 
 ## Acknowledgments
 
-- [Any acknowledgments or credits]
+Thank you to Brian Carufe for the concept and opportunity
