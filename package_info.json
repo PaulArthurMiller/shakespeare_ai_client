@@ -1,0 +1,23 @@
+{
+  "package_name": "Shakespeare AI",
+  "created_date": "2025-05-11T12:06:51.321549",
+  "source_directory": "C:\\Users\\user\\Upwork\\shakespeare_ai",
+  "package_directory": "C:\\Users\\user\\Upwork\\shakespeare_ai\\client_packages\\shakespeare_ai_client_20250511_1206",
+  "version": "1.0.0",
+  "included_modules": [
+    "modules/ui",
+    "modules/ui/playwright",
+    "modules/playwright",
+    "modules/translator",
+    "modules/rag",
+    "modules/chunking",
+    "modules/validation",
+    "modules/output",
+    "modules/utils"
+  ],
+  "included_data": [
+    "data/processed_chunks",
+    "data/line_corpus",
+    "data/prompts"
+  ]
+}

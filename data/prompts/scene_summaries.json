@@ -1,0 +1,15 @@
+{
+  "scenes": [
+    {
+      "act": "I",
+      "scene": "1",
+      "overview": "Squidward is attempting to practice his clarinet, but is interrupted by loud banging outside. Each time he looks out his window, he sees Patrick, standing innocently by his rock house. When he turns back in, Patrick pulls a hammer from behind his back and hammers furiously on his rock house. Finally, Squidward catches him and asks what he is doing. Patrick says he is practicing hammering. Squidward asks him bluntly to stop, as he is trying to practice his clarinet. The two then go into a back and forth argument about the values of each of the \"instruments\" they are practicing. In their final exchange, each tries to prove the superiority of their choice by creating a poetic ode to the instrument. The scene closes with them practicing at the same time.",
+      "setting": "An underwater neighborhood with a rounded rock house for Patrick and a stylized humanlike stone head house for Squidward, which has windows at the eyes. The background is a curtain with drawn flowers.",
+      "characters": [
+        "Squidward",
+        "Patrick"
+      ],
+      "additional_instructions": ""
+    }
+  ]
+}

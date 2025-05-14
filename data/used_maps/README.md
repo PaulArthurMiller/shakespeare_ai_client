@@ -1,0 +1,1 @@
+This directory stores translation session data and will be created automatically.

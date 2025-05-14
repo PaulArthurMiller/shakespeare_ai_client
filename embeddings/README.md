@@ -1,0 +1,1 @@
+Extract the Chroma database (chromadb_vectors folder) here.
